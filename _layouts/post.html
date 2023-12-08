@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+
+<p>
+  {{ page.date | date_to_string }}
+  {% assign author = site.people | where: 'short_name', page.author | first %}
+  {% if author %}
+    - <a href="{{ author.url | relative_url }}">{{ author.name }}</a>
+  {% else %}
+    - {{ page.author }}
+  {% endif %}
+</p>
+
+{{ content }}

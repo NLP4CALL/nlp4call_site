@@ -1,0 +1,28 @@
+title: NLP4CALL
+description: Workshop on Natural Language Processing for Computer Assisted Language Learning
+show_downloads: false
+google_analytics: true
+theme: jekyll-theme-slate
+
+collections:
+  people:
+    output: true
+  editions:
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "people"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+baseurl : "" # does not include hostname

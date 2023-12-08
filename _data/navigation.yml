@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Past Editions
+  link: /past_editions.html
+- name: News
+  link: /news.html
+- name: Organisers
+  link: /organisers.html

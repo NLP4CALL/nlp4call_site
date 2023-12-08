@@ -1,0 +1,14 @@
+---
+title: Past editions
+---
+
+<h1>Past editions</h1>
+
+<ul>
+  {% for edition in site.editions %}
+    <li>
+      <h2><a href="{{ edition.external_url }}">{{ edition.name }}</a></h2>
+      <p>{{ edition.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

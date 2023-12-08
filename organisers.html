@@ -1,0 +1,15 @@
+---
+title: Organisers
+---
+<h1>Organisers</h1>
+
+<ul>
+  {% for author in site.people %}
+    <li>
+      <h2><a href="{{ author.url | relative_url}}">{{ author.name }}</a></h2>
+      <h3>{{ author.position }}</h3>
+      {% if author.picture != nil %} <img src={{ author.picture }} alt={{ author.name }} class="responsive"/>{% endif %}
+      <p>{{ author.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

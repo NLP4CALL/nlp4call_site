@@ -25,4 +25,4 @@ defaults:
     values:
       layout: "default"
 
-baseurl : "/nlp4call" # does not include hostname
+baseurl : "/NLP4CALL" # does not include hostname

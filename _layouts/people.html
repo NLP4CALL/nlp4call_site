@@ -4,7 +4,7 @@ layout: default
 <h1>{{ page.name }}</h1>
 <h2>{{ page.position }}</h2>
 
-{% if page.picture != nil %} <img src={{ page.picture }} alt={{ page.name }} class="responsive"/>{% endif %}
+{% if page.picture != nil %} <img src={{ page.picture | relative_url }} alt={{ page.name }} class="responsive"/>{% endif %}
 
 {{ content }}
 

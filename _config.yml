@@ -3,6 +3,8 @@ description: Workshop on Natural Language Processing for Computer Assisted Langu
 show_downloads: false
 google_analytics: true
 theme: jekyll-theme-slate
+github:
+  is_project_page: false #to remove "view on GitHub" badge
 
 collections:
   people:

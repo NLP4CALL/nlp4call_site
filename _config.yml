@@ -11,6 +11,8 @@ collections:
     output: true
   editions:
 
+excerpt_separator: <!--end_excerpt-->
+
 defaults:
   - scope:
       path: ""

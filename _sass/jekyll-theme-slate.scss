@@ -295,6 +295,38 @@ kbd {
   margin-top: 10px;
 }
 
+
+li.prettylistitem {
+  list-style-type: none;  
+  position: relative;
+  background-color: #373737;
+  color: #fff;
+  border-color: #f77a27;
+  margin: 10px;
+  padding : 10px;
+  border-radius: 9px;
+  line-height: 3em;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+    rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+li.prettylistitem p {
+  padding: 0; 
+  margin: 0;
+  line-height: 1;
+  margin-top: 10px;
+}
+
+li.prettylistitem h3 {
+  padding: 0; 
+  margin: 0;
+  color : #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -399,7 +431,7 @@ Full-Width Styles
   border-bottom: 1px solid #111;
   /*margin-left: 200px;*/
   padding: 1px 16px;
-  height: 1000px;
+  min-height: 1000px;
 }
 
 #main_content {
@@ -409,8 +441,6 @@ Full-Width Styles
 #footer_wrap {
   background: #212121;
 }
-
-
 
 /*******************************************************************************
 Small Device Styles

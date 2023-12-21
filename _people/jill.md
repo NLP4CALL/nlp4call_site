@@ -1,7 +1,7 @@
 ---
-short_name: jill
+short_name: jsmith
 name: Jill Smith
-position: Chief Editor
+position: Sr Researcher at University of Madeup, Country
 picture: /assets/images/sunshine.jpg
 ---
-Jill is an avid fruit grower based in the south of France.
+Jill is interested in research about CALL, SLA, with a particular interest in Machine Learning.

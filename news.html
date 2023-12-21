@@ -3,12 +3,11 @@ title: News
 ---
 <h1>{{ page.title }}</h1>
 
-Here are supposed to be the lastest news in the form of a blog. 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+    <li class="prettylistitem">
+      <h3>{{ post.date | date_to_string }} -- <a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>

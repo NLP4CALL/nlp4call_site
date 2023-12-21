@@ -1,6 +1,6 @@
 ---
-short_name: ted
+short_name: tdoe
 name: Ted Doe
-position: Writer
+position: Assistant Professor at University of Doesntexist, Country
 ---
-Ted has been eating fruit since he was baby.
+Ted's field of research revolves around NLP for ICALL. 

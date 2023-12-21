@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-{% seo %}
+    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    {% seo %}
     {% include head-custom.html %}
   </head>
 
@@ -19,7 +19,7 @@
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
-          <img src="{{ '/assets/images/capture-logo-nlp4call.png' | relative_url }}" id="mainlogo"/>
+          <img src="{{ 'assets/images/nlp4call_logo_300dpi_white.png' | relative_url }}" id="mainlogo"/>
           <div id="main_titles">
             <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
             <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>

@@ -2,7 +2,6 @@
 title: About
 ---
 
-
 The workshop series on **Natural Language Processing for Computer-Assisted Language Learning** (NLP4CALL) 
 is a meeting place for researchers working on the integration of **Natural Language Processing** and **Speech Technologies** 
 in **CALL** systems and exploring the theoretical and methodological issues arising in this connection. 
@@ -30,3 +29,11 @@ We welcome papers:
  * that describe the ongoing development of resources and tools with potential usage in ICALL, either directly in interactive applications, or indirectly in materials, application or curriculum development, e.g. learning material generation, assessment of learner texts/responses, individualized learning solutions, provision of feedback;
  * that discuss challenges and/or research agenda for ICALL;
  * that describe empirical studies on language learner data.
+
+---
+
+**Contact information**
+
+You can find information on the latest issue of the workshop in the [Latest Edition]({{ site.baseurl }}{% link current_edition.md %}) menu item.
+
+For any other questions, you can reach us at [nlp4call@gmail.com](mailto:nlp4call@gmail.com?subject=Contact)

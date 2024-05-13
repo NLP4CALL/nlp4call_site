@@ -2,9 +2,11 @@
   link: /
 - name: About
   link: /about.html
+- name: Latest Edition
+  link: /current_edition.html
 - name: Past Editions
   link: /past_editions.html
 - name: News
   link: /news.html
-- name: People
+- name: Organizers
   link: /people.html

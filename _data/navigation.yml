@@ -2,7 +2,9 @@
   link: /
 - name: About
   link: /about.html
-- name: Latest Edition
+- name: Next Edition
+  link: /next_edition.html
+- name: This Year's Edition
   link: /current_edition.html
 - name: Past Editions
   link: /past_editions.html

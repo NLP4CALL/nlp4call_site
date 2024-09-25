@@ -2,6 +2,7 @@
 layout: post
 author: cmallart
 title : 13th Workshop Call For Papers
+shortname : NLP4CALL2024
 ---
 
 We are happy to announce that the 2024 edition of NLP4CALL will be held in France at Université Rennes 2. As a result of the growing interest in the domain, the workshop series will be held over two days, 25 & 26 October 2024. Paper presentations, poster and demo sessions will alternate to offer a comprehensive overview of the latest developments in the field.

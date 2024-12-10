@@ -1,5 +1,7 @@
 ---
 title: Organisers
+permalink: /people/
+alias: /current/people/
 ---
 <h1>People</h1>
 

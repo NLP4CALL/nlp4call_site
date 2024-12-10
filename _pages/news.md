@@ -1,5 +1,7 @@
 ---
 title: News
+permalink: /news/
+alias: /current/news/
 ---
 <h1>{{ page.title }}</h1>
 

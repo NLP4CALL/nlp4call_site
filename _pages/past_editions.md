@@ -1,5 +1,7 @@
 ---
 title: Past editions
+permalink: /past_editions/
+alias: /current/past_editions/
 ---
 
 <h1>Past editions</h1>

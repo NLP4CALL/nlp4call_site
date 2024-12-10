@@ -1,2 +1,7 @@
 # Site should not be tracked afaik
 _site
+
+# Other things to ignore
+.github
+.jekyll-cache
+.sass-cache

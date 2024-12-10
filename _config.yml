@@ -29,4 +29,9 @@ defaults:
     values:
       layout: "default"
 
-baseurl : "/current" # does not include hostname
+#baseurl : "/current" # does not include hostname
+
+include:
+- _pages
+
+safe: false

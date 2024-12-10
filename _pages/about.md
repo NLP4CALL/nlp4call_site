@@ -1,5 +1,7 @@
 ---
 title: About
+permalink: /about
+alias: [/current/about]
 ---
 
 The workshop series on **Natural Language Processing for Computer-Assisted Language Learning** (NLP4CALL) 

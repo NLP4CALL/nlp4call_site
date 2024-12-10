@@ -1,14 +1,14 @@
 - name: Home
   link: /
 - name: About
-  link: /about
+  link: /about/
 - name: Next Edition
-  link: /next_edition
+  link: /next_edition/
 - name: This Year's Edition
-  link: /current_edition
+  link: /current_edition/
 - name: Past Editions
-  link: /past_editions
+  link: /past_editions/
 - name: News
-  link: /news
+  link: /news/
 - name: Organizers
-  link: /people
+  link: /people/

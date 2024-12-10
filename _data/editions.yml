@@ -1,0 +1,99 @@
+
+
+- year: 2025
+  long_name: 14th NLP4CALL & MultiGEC Shared Task
+  proceedings_url: None
+  co_located: NoDaLiDa/Baltic-HLT workshop
+  place: Tallinn, Estonia
+  date: March 5
+
+- year: 2024
+  long_name: 13th NLP4CALL
+  proceedings_url: https://ecp.ep.liu.se/index.php/sltc/issue/view/92
+  co_located: Independent workshop
+  place: Rennes, France
+  date: October 25 & 26
+
+- year: 2023
+  long_name: 12th NLP4CALL & MultiGED Shared Task
+  proceedings_url: https://ecp.ep.liu.se/index.php/sltc/issue/view/76
+  co_located: NoDaLiDa workshop
+  place: Tórshavn, Faroe Islands
+  date: May 22
+
+- year: 2022
+  long_name: 11th NLP4CALL
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=130
+  co_located: Independent workshop
+  place: Louvain-la-Neuve, Belgium
+  date: December 9
+
+- year: 2021
+  long_name: 10th NLP4CALL
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=177
+  co_located: NoDaLiDa workshop
+  place: Online
+  date: May 31
+
+- year: 2020
+  long_name: 9th NLP4CALL
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=175
+  co_located: SLTC workshop
+  place: Gothenburg, Sweden
+  date: November 25
+
+- year: 2019
+  long_name: 8th NLP4CALL
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=164
+  co_located: NoDaLiDa workshop
+  place: Turku, Finland
+  date: September 30
+
+- year: 2018
+  long_name: 7th NLP4CALL
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=152
+  co_located: SLTC workshop
+  place: Stockholm, Sweden
+  date: November 7
+
+- year: 2017
+  long_name: Joint 6th NLP4CALL and 2nd NLP4LA
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=134
+  co_located: NoDaLiDa workshop
+  place: Gothenburg, Sweden
+  date: May 22
+
+- year: 2016
+  long_name: Joint 5th NLP4CALL and 1st NLP4LA
+  proceedings_url: https://ep.liu.se/en/conference-issue.aspx?series=ecp&issue=130
+  co_located: SLTC workshop
+  place: Umeå, Sweden
+  date: November 16
+
+- year: 2015
+  long_name: 4th NLP4CALL
+  proceedings_url: http://www.ep.liu.se/ecp_home/index.en.aspx?issue=114
+  co_located: NoDaLiDa workshop
+  place: Vilnius, Lithuania
+  date: May 11
+
+- year: 2014
+  long_name: 3rd workshop on NLP for computer-assisted language learning
+  proceedings_url: http://www.ep.liu.se/ecp_home/index.en.aspx?issue=107
+  co_located: SLTC workshop
+  place: Uppsala, Sweden
+  date: November 13
+
+- year: 2013
+  long_name: 2nd workshop on NLP for computer-assisted language learning
+  proceedings_url: http://www.ep.liu.se/ecp_home/index.en.aspx?issue=086
+  co_located: NoDaLiDa workshop
+  place: Oslo, Norway
+  date: May 22
+
+- year: 2012
+  long_name: Workshop on NLP for computer-assisted language learning
+  proceedings_url: http://www.ep.liu.se/ecp_home/index.en.aspx?issue=080
+  co_located: SLTC workshop
+  place: Lund, Sweden
+  date: October 25

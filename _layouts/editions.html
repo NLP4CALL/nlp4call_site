@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% for item in site.data.editions %}
+    {% if {{item.year}} == {{page.year}} %}
+        {% assign title = item.long_name %}
+    {% else %}
+       {{continue}}
+    {% endif %}
+{% endfor %}
+
+<h1>{{ title }}</h1>
+
+{% capture edition_content %}{% include_relative {{page.year | prepend: "content/" | append: ".md"}}%}{% endcapture %}
+{{edition_content | markdownify}}

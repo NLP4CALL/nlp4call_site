@@ -1,5 +1,7 @@
 ---
 title: Terms and conditions
+permalink: /terms_and_conditions/
+alias: /current/terms_and_conditions/
 ---
 
 

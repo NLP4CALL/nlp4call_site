@@ -1,6 +1,9 @@
 # Site should not be tracked afaik
 _site
 
+# The Gemfile.lock should probably not be here
+Gemfile.lock
+
 # Other things to ignore
 .github
 .jekyll-cache

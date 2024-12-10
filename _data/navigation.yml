@@ -2,8 +2,8 @@
   link: /
 - name: About
   link: /about/
-- name: Next Edition
-  link: /next_edition/
+#- name: Next Edition
+#  link: /next_edition/
 - name: This Year's Edition
   link: /current_edition/
 - name: Past Editions

@@ -1,6 +1,12 @@
 <!-- The sidebar -->
+{% if page.dir == "/" %}
+  {% assign top_level = "/" %}
+{% else %}
+  {% assign top_level = page.dir | split:"/" %}
+  {% assign top_level = top_level[1] | append: "/" | prepend: "/" %}
+{% endif %}
 <div class="sidebar">
   {% for item in site.data.navigation %}
-    <a href="{{ item.link | relative_url }}" {% if page.dir == item.link %} class="active" {% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link | relative_url }}" {% if top_level == item.link %} class="active" {% endif %}>{{ item.name }}</a>
   {% endfor %}
 </div>

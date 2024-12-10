@@ -35,3 +35,16 @@ include:
 - _pages
 
 safe: false
+
+plugins:
+  - jekyll-datapage-generator
+
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+
+page_gen:
+  - data: 'editions'
+    template: 'editions'
+    name: 'year'
+    dir: 'past_editions'
+    title: "long_name"
+    title_expr: nil.to_s+"NLP4CALL ".to_s+record["year"].to_s

@@ -36,6 +36,6 @@ We welcome papers:
 
 **Contact information**
 
-You can find information on the latest issue of the workshop in the [Latest Edition](/current_edition/ %}) menu item.
+You can find information on the latest issue of the workshop in the [Latest Edition](/current_edition/) menu item.
 
 For any other questions, you can reach us at [nlp4call@gmail.com](mailto:nlp4call@gmail.com?subject=Contact)
